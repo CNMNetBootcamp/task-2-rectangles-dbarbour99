@@ -6,6 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
+            //Good job!
 
             //setup
                 float area1 = 0;
